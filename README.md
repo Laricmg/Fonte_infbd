@@ -11,9 +11,11 @@ ATIVIDADES DESENVOLVIDAS DURANTE O 1 SEMESTRE DO CURSO TECNOLOGO DE GPI FATEC-SJ
 <img width="1089" height="501" alt="image" src="https://github.com/user-attachments/assets/7e975352-8403-45b2-860b-b0ce38be387e" />
 
 ## PLANILHAS ELETRONICAS E DADOS ABERTOS
+Foram coletadas informações de dados abertos, a partir das quais elaborei 5 perguntas e utilizei fórmulas e gráficos para analisar e apresentar os resultados.
 <img width="956" height="592" alt="image" src="https://github.com/user-attachments/assets/1c6c825a-1ff9-438e-b26c-37ec01c649e7" />
 
 ## POWER BI
+Por meio dos dados fornecidos, criei um dashboard interativo no Power BI, permitindo uma visualização mais dinâmica das informações.
 <img width="1319" height="747" alt="image" src="https://github.com/user-attachments/assets/745881aa-e163-4fdb-bbf6-f5c5722f8af1" />
 
 
