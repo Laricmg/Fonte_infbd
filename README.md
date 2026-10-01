@@ -2,6 +2,7 @@
 ATIVIDADES DESENVOLVIDAS DURANTE O 1 SEMESTRE DO CURSO TECNOLOGO DE GPI FATEC-SJC 
 
 ## APRESENTAÇÃO PESSOAL- MAPA MENTAL
+Durante uma apresentação em grupo, abordamos três tópicos relacionados aos gostos e momentos de lazer de cada integrante.
 <img width="1675" height="852" alt="image" src="https://github.com/user-attachments/assets/dd089176-6609-4775-894b-abc1c9d4f599" />
 
 ## ANALISE DE DADOS ABERTOS POR MEIO DE DASHBOARD
