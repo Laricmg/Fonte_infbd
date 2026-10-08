@@ -16,6 +16,14 @@ Durante uma apresentação em grupo, abordamos três tópicos relacionados aos g
 <img width="1089" height="501" alt="image" src="https://github.com/user-attachments/assets/7e975352-8403-45b2-860b-b0ce38be387e" />
 
 ## PLANILHAS ELETRONICAS E DADOS ABERTOS
+
+1. Qual é a população total das 10 cidades analisadas?	18.784.118 habitantes ( ( =SOMA B2;B3;B4;B5;B6;B7;B8;B9;B10))
+2. Qual é a população média dessas 10 cidades?	1.878.411,8 habitantes ( =MEDIA B2;B3;B4;B5;B6;B7;B8;B9;B10)
+3. Qual município possui a maior densidade demográfica?	Osasco — 11.445,51 hab./km² ( =MAXIMO( D2,D3,D4,D5,D6,D7,D8,D9,D10,D11)
+4. Qual é a participação de São Paulo na população total das 10 cidades?		60,96% ( =B12/C13)
+5. Qual é a diferença de população entre a maior e a menor cidade da seleção?		10.970.806 habitantes ( B2-B11)
+<img width="413" height="206" alt="image" src="https://github.com/user-attachments/assets/8158bc65-4838-4252-991e-dac32261b28f" />
+
 Foram coletadas informações de dados abertos, a partir das quais elaborei 5 perguntas e utilizei fórmulas e gráficos para analisar e apresentar os resultados.
 <img width="956" height="592" alt="image" src="https://github.com/user-attachments/assets/1c6c825a-1ff9-438e-b26c-37ec01c649e7" />
 
