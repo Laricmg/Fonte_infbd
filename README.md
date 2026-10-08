@@ -34,28 +34,20 @@ Por meio dos dados fornecidos, criei um dashboard interativo no Power BI, permit
 ## Censo da Educação Superior
 Qual é a relação entre ingressantes e concluintes no ensino superior?
 ➡️ Em 2024, foram aproximadamente 3,7 ingressantes para cada concluinte.
-<img width="1380" height="781" alt="image" src="https://github.com/user-attachments/assets/d7c3ee95-5691-431c-9016-96567f5fd048" />
 
 Qual organização acadêmica concentra mais ingressantes?
-➡️ As universidades, com aproximadamente 41,8% dos ingressantes.
-<img width="1200" height="779" alt="image" src="https://github.com/user-attachments/assets/874d7018-be93-41b5-9045-24ca4c9f9be7" />
+➡️ As universidades, com aproximadamente 41,8% dos ingressantes
 
 Qual é o percentual de ocupação das vagas novas?
 ➡️ Aproximadamente 85,2% das vagas novas foram ocupadas.
-<img width="1380" height="581" alt="image" src="https://github.com/user-attachments/assets/ec56334d-1329-4cfa-8774-c2f316fbdb82" />
-
 
  Qual é a relação entre matrículas em instituições públicas e privadas?
 ➡️ As instituições privadas concentram cerca de 78,7% das matrículas, enquanto as públicas representam aproximadamente 21,3%.
-<img width="1088" height="779" alt="image" src="https://github.com/user-attachments/assets/22a979dd-f2b1-4ae3-8494-1a4571c5bd82" />
-
 
  Qual é a participação dos docentes por regime de trabalho e titulação?
-➡️ 52,3% dos docentes trabalham em tempo integral e 33,8% possuem doutorado.
-<img width="1380" height="782" alt="image" src="https://github.com/user-attachments/assets/7bf7da41-33bc-48d6-951a-dc2c61ab7123" />
+➡️ 52,3% dos docentes trabalham em tempo integral e 33,8% possuem o título de doutorado 
+
+<img width="774" height="422" alt="image" src="https://github.com/user-attachments/assets/95cce613-b1a4-482d-95bb-6d9927620c8c" />
 
 
-
-
-link: https://app.powerbi.com/groups/c7003cb3-3fda-43cb-b715-d61ca3ea92e6/reports/28aff910-5400-4f90-835a-48c206a9fd34/e9c0512d39fdba53955f?language=pt-BR&experience=power-bi
 
