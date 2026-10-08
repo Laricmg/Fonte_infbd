@@ -8,7 +8,11 @@ Durante uma apresentação em grupo, abordamos três tópicos relacionados aos g
 ## ANALISE DE DADOS ABERTOS POR MEIO DE DASHBOARD
  FORAM COLETADOS DADOS RELATIVOS A EMPRESAS MULTIMODAIS PRESENTES NO SITE DA ANTT. PARA A CONSTRUÇÃO DO DASHBOARD FORAM USADOS LINGUAGEM DAX E CONSTRUÇÃO DE VISUALIZAÇÕES
 <img width="1338" height="537" alt="image" src="https://github.com/user-attachments/assets/4b5be85f-3d5c-4b1e-abc8-35e605ea610d" />
+
+1)Qual a diferença entre o estado com mais e menos empresas habilitadas?
 <img width="1350" height="513" alt="image" src="https://github.com/user-attachments/assets/fe8a2de0-13b7-4539-b03f-c513e2fc8ee8" />
+
+2)Qual é a média de empresas por estado?
 <img width="1089" height="501" alt="image" src="https://github.com/user-attachments/assets/7e975352-8403-45b2-860b-b0ce38be387e" />
 
 ## PLANILHAS ELETRONICAS E DADOS ABERTOS
