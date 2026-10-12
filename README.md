@@ -57,6 +57,10 @@ Qual é o percentual de ocupação das vagas novas?
 
 <img width="774" height="422" alt="image" src="https://github.com/user-attachments/assets/95cce613-b1a4-482d-95bb-6d9927620c8c" />
 
-link: https://app.powerbi.com/groups/me/reports/2d5f3217-aaa4-4e48-a37a-202a651488e8/8c661112dbecd7291ce2?language=pt-BR&experience=power-bi
+link: https://app.powerbi.com/groups/me/reports/2d5f3217-aaa4-4e48-a37a-202a651488e8/8c661112dbecd7291ce2?language=pt-BR&experience=power-bik
+
+## Power Bi com figuras 
+<img width="944" height="538" alt="image" src="https://github.com/user-attachments/assets/c8951433-3b5d-418a-b029-532e1829bad2" />
+
 
 
