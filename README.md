@@ -60,6 +60,9 @@ Qual é o percentual de ocupação das vagas novas?
 link: https://app.powerbi.com/groups/me/reports/2d5f3217-aaa4-4e48-a37a-202a651488e8/8c661112dbecd7291ce2?language=pt-BR&experience=power-bik
 
 ## Power Bi com figuras 
+
+Projeto desenvolvido no Power BI com base em dados demográficos do Brasil, apresentando a distribuição da população por Unidade Federativa (UF) e suas respectivas bandeiras, com o objetivo de facilitar a visualização e a análise comparativa dos dados.
+
 <img width="944" height="538" alt="image" src="https://github.com/user-attachments/assets/c8951433-3b5d-418a-b029-532e1829bad2" />
 
 
