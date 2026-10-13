@@ -65,5 +65,7 @@ Projeto desenvolvido no Power BI com base em dados demográficos do Brasil, apre
 
 <img width="944" height="538" alt="image" src="https://github.com/user-attachments/assets/c8951433-3b5d-418a-b029-532e1829bad2" />
 
+link: https://app.powerbi.com/groups/c7003cb3-3fda-43cb-b715-d61ca3ea92e6/reports/d7f06bc6-27df-465a-9972-54becda39c48/076e39939f15a2c34854?action=OpenReport&ctid=eabe64c5-68f5-4a76-8301-9577a679e449&pbi_source=ChatInTeams
+
 
 
