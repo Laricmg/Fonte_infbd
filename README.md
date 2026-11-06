@@ -72,7 +72,8 @@ link: https://app.powerbi.com/groups/c7003cb3-3fda-43cb-b715-d61ca3ea92e6/report
 ## ICE CREAM
 
 Foi realizado em aula, um dashboard de Indicativo de vendas
-<img width="1363" height="702" alt="image" src="https://github.com/user-attachments/assets/9558e962-75e2-4e16-843f-e558c9549652" />
+<img width="1797" height="825" alt="image" src="https://github.com/user-attachments/assets/cde8354c-b2c8-46e8-b358-12f517e16c65" />
+
 
 
 
