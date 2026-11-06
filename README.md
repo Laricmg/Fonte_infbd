@@ -74,6 +74,10 @@ link: https://app.powerbi.com/groups/c7003cb3-3fda-43cb-b715-d61ca3ea92e6/report
 Foi realizado em aula, um dashboard de Indicativo de vendas
 <img width="1797" height="825" alt="image" src="https://github.com/user-attachments/assets/cde8354c-b2c8-46e8-b358-12f517e16c65" />
 
+## Análise da Expectativa de Vida no Mundo
 
+Este projeto tem como objetivo analisar a expectativa de vida da população mundial, utilizando dados disponibilizados pelo Our World in Data. A proposta foi desenvolver um dashboard interativo no Power BI para facilitar a visualização, a interpretação e a comparação dos indicadores de expectativa de vida entre diferentes países e ao longo dos anos.
+
+<img width="1416" height="790" alt="image" src="https://github.com/user-attachments/assets/aea2818f-a28c-4790-a63b-4fdb505cb262" />
 
 
