@@ -80,4 +80,22 @@ Este projeto tem como objetivo analisar a expectativa de vida da população mun
 
 <img width="1416" height="790" alt="image" src="https://github.com/user-attachments/assets/aea2818f-a28c-4790-a63b-4fdb505cb262" />
 
+## Análise da Relação entre Horas de Estudo e Notas dos Estudantes — Excel
 
+Esta etapa teve como objetivo analisar a relação entre a quantidade de horas dedicadas aos estudos e as notas obtidas pelos estudantes nas provas, utilizando técnicas de análise de dados e regressão linear no Microsoft Excel.
+
+<img width="1264" height="658" alt="image" src="https://github.com/user-attachments/assets/b331bd6a-e29b-4a2f-8a11-9f9bb6ea9e50" />
+
+##Comparação dos Resultados: Excel x Google Colab
+
+Após desenvolver a regressão linear no Microsoft Excel e no Google Colab, foi realizada uma comparação entre os resultados obtidos nas duas ferramentas.
+Os valores encontrados foram equivalentes:
+Inclinação: aproximadamente 1,6341.
+Intercepto: aproximadamente 23,6184.
+R²: aproximadamente 0,6033.
+
+Conclusão da comparação:
+
+Sim, os modelos apresentaram resultados iguais, com diferenças insignificantes apenas nas casas decimais. Isso demonstra que tanto o Excel quanto o Google Colab foram capazes de aplicar a regressão linear e identificar a relação positiva entre as horas de estudo e as notas dos estudantes.
+
+<img width="1064" height="682" alt="image" src="https://github.com/user-attachments/assets/70f3e3fa-7b12-435c-95c2-0c35bb4cac46" />
