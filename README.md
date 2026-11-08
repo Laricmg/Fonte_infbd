@@ -86,7 +86,7 @@ Esta etapa teve como objetivo analisar a relação entre a quantidade de horas d
 
 <img width="1264" height="658" alt="image" src="https://github.com/user-attachments/assets/b331bd6a-e29b-4a2f-8a11-9f9bb6ea9e50" />
 
-##Comparação dos Resultados: Excel x Google Colab
+## Comparação dos Resultados: Excel x Google Colab
 
 Após desenvolver a regressão linear no Microsoft Excel e no Google Colab, foi realizada uma comparação entre os resultados obtidos nas duas ferramentas.
 Os valores encontrados foram equivalentes:
