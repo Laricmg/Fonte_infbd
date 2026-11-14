@@ -108,5 +108,14 @@ Foi realizada uma análise de regressão linear utilizando os dados de nupcialid
 
 link: https://colab.research.google.com/drive/1pjNOMm35Ph8mBlRnOZx8RVfhQKTPUTFw?pli=1#scrollTo=UIU9RrVwWmVK
 
+## Dashboard — Investimentos Captados no Estado de São Paulo
+
+<img width="1184" height="675" alt="image" src="https://github.com/user-attachments/assets/9d79827d-89dd-450e-9568-802776330844" />
+<img width="1166" height="433" alt="image" src="https://github.com/user-attachments/assets/ce079875-0729-4b1a-ad04-8aa89ce9177f" />
+<img width="1151" height="418" alt="image" src="https://github.com/user-attachments/assets/dc36378a-c75b-475d-9f90-753c2fde4df4" />
+
+link: file:///C:/Users/Fatec/Downloads/dashboard_seade_investimentos%20(1)/dashboard_investimentos.html
+
+
 
 
