@@ -99,3 +99,14 @@ Conclusão da comparação:
 Sim, os modelos apresentaram resultados iguais, com diferenças insignificantes apenas nas casas decimais. Isso demonstra que tanto o Excel quanto o Google Colab foram capazes de aplicar a regressão linear e identificar a relação positiva entre as horas de estudo e as notas dos estudantes.
 
 <img width="1064" height="682" alt="image" src="https://github.com/user-attachments/assets/70f3e3fa-7b12-435c-95c2-0c35bb4cac46" />
+
+## Análise da Regressão Linear – Nupcialidade SEADE
+
+Foi realizada uma análise de regressão linear utilizando os dados de nupcialidade do SEADE, com o objetivo de verificar a relação entre a idade média dos homens ao se casar e a idade média das mulheres ao se casar. Para isso, foi elaborado um gráfico de dispersão, no qual cada ponto representa uma observação dos dados, e uma linha de tendência foi adicionada para demonstrar o comportamento da relação entre as variáveis.
+
+<img width="1033" height="610" alt="image" src="https://github.com/user-attachments/assets/396f3e76-eb1b-4946-a6e3-093dbf4f1344" />
+
+link: https://colab.research.google.com/drive/1pjNOMm35Ph8mBlRnOZx8RVfhQKTPUTFw?pli=1#scrollTo=UIU9RrVwWmVK
+
+
+
